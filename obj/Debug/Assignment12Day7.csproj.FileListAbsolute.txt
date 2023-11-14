@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day7\Assignment12Day7\Assignment12Day7\bin\Debug\Assignment12Day7.exe.config
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day7\Assignment12Day7\Assignment12Day7\bin\Debug\Assignment12Day7.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day7\Assignment12Day7\Assignment12Day7\bin\Debug\Assignment12Day7.pdb
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day7\Assignment12Day7\Assignment12Day7\obj\Debug\Assignment12Day7.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day7\Assignment12Day7\Assignment12Day7\obj\Debug\Assignment12Day7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day7\Assignment12Day7\Assignment12Day7\obj\Debug\Assignment12Day7.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day7\Assignment12Day7\Assignment12Day7\obj\Debug\Assignment12Day7.pdb
